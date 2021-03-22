@@ -1,12 +1,12 @@
 # AwesomeNFTs
 A curated list of NFT resources, frameworks, libraries, communities, and cool new projects, based on gianni dalerta's original repo &amp; updated for 2021.
 
-# Project Spotlight
+# Project Spotlight (Feel free to contribute to the list)
  - [Eulerbeats](https://eulerbeats.com)
  - [Crypto Corgis](https://cryptocorgis.co)
  - [Nifty Ink](https://cryptocorgis.co)
  - [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)
- - 
+
 # **Blockchains**
 
 ### **Ethereum**
