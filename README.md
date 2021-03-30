@@ -6,6 +6,7 @@ A curated list of NFT resources, frameworks, libraries, communities, and cool ne
  - [Crypto Corgis](https://cryptocorgis.co)
  - [Nifty Ink](https://cryptocorgis.co)
  - [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)
+ - [Ethermore (An emerging fantasy world, built on the blockchain)](https://ethermore.xyz/)
 
 # **Blockchains**
 
@@ -146,6 +147,7 @@ A curated list of NFT resources, frameworks, libraries, communities, and cool ne
 - [KwownOrigin](https://knownorigin.io/)
 - [Codex](https://codexprotocol.com/)
 - [Hashmasks](https://www.thehashmasks.com/)
+- [EtherPalace](https://pachunka.github.io/EtherPalace/palace.html)
 
 ## **NFT Music**
 
